@@ -281,7 +281,7 @@ MonoBehaviour:
   - {fileID: 919132149155446097, guid: 91bdd86396f8a4d14bad436b8ce39246, type: 3}
   - {fileID: 276076788807221021, guid: d1af1336911b2564b90d8e6ebd8b5376, type: 3}
   - {fileID: 8536180677619094754, guid: 5bb37e975c92d46cf9826f3bfe28f950, type: 3}
-  - {fileID: 198484545102678419, guid: d24aee45f0851446ea95745fd9753f68, type: 3}
+  - {fileID: 3948980972812311935, guid: e281c48788aca7141ae0e5acdf8fc75a, type: 3}
   scaleFactor: {x: 0.1, y: 0.1, z: 0.1}
 --- !u!114 &1401312700
 MonoBehaviour:
